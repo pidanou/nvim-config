@@ -4,6 +4,7 @@ return {
     servers = {
       denols = {},
       svelte = {},
+      pylsp = {},
     },
   },
   config = function(_, opts)
